@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf9a57a8-551e-4dc9-bffb-57c41acba2bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1gxGvsC642zg3JRFT4WzCyJvse8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="SQL Updates" />
+    <property name="database.data.extractors.current.id" value="SQL Updates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf9a57a8-551e-4dc9-bffb-57c41acba2bf" name="Default Changelist" comment="" />
+      <created>1599049063279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599049063279</updated>
+      <workItem from="1599049064330" duration="1035000" />
+      <workItem from="1599050145933" duration="12384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="373" width="1397" height="294" key="#SQL_Dialects" timestamp="1599051621296">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="256" y="373" width="1397" height="294" key="#SQL_Dialects/0.27.1920.988/1920.0.1280.1024@0.27.1920.988" timestamp="1599051621296" />
+    <state x="902" y="126" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599056151308">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="902" y="126" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988/1920.0.1280.1024@0.27.1920.988" timestamp="1599056151308" />
+    <state x="755" y="445" width="399" height="149" key="NewPhpFileDialog" timestamp="1599049072530">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="755" y="445" width="399" height="149" key="NewPhpFileDialog/0.27.1920.988/1920.0.1280.1024@0.27.1920.988" timestamp="1599049072530" />
+    <state x="489" y="277" width="932" height="485" key="data.grid.dml.preview.dialog" timestamp="1599050298455">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="489" y="277" width="932" height="485" key="data.grid.dml.preview.dialog/0.27.1920.988/1920.0.1280.1024@0.27.1920.988" timestamp="1599050298455" />
+  </component>
+</project>
